@@ -79,3 +79,10 @@ src/
 - Add a comparables agent (peer multiples table)
 - Replace Tavily with a richer litigation source (CourtListener)
 - Stream agent progress in the CLI as each finishes
+
+## Sample report generated
+
+<img width="1270" height="1082" alt="Screenshot 2026-05-10 at 4 25 39 PM" src="https://github.com/user-attachments/assets/dc327e75-bec3-4c16-84d4-b2c2e97abb49" />
+<img width="1270" height="1082" alt="Screenshot 2026-05-10 at 4 25 51 PM" src="https://github.com/user-attachments/assets/1982bc87-7d87-42cf-9eed-01827da0343b" />
+<img width="1270" height="1082" alt="Screenshot 2026-05-10 at 4 25 59 PM" src="https://github.com/user-attachments/assets/d32f060c-124a-47f1-b472-e1b449b01ba3" />
+<img width="1270" height="1082" alt="Screenshot 2026-05-10 at 4 26 06 PM" src="https://github.com/user-attachments/assets/b0e0c80d-a7f1-4eab-8f77-8ef71d54915e" />
