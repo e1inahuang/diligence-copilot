@@ -82,7 +82,9 @@ src/
 
 ## Sample report generated
 
-<img width="1270" height="1082" alt="Screenshot 2026-05-10 at 4 25 39 PM" src="https://github.com/user-attachments/assets/dc327e75-bec3-4c16-84d4-b2c2e97abb49" />
-<img width="1270" height="1082" alt="Screenshot 2026-05-10 at 4 25 51 PM" src="https://github.com/user-attachments/assets/1982bc87-7d87-42cf-9eed-01827da0343b" />
-<img width="1270" height="1082" alt="Screenshot 2026-05-10 at 4 25 59 PM" src="https://github.com/user-attachments/assets/d32f060c-124a-47f1-b472-e1b449b01ba3" />
-<img width="1270" height="1082" alt="Screenshot 2026-05-10 at 4 26 06 PM" src="https://github.com/user-attachments/assets/b0e0c80d-a7f1-4eab-8f77-8ef71d54915e" />
+<img width="650" height="751" alt="Screenshot 2026-05-11 at 7 25 59 PM" src="https://github.com/user-attachments/assets/67e04511-d1aa-4929-bf19-16facdc4fb6f" />
+<img width="654" height="760" alt="Screenshot 2026-05-11 at 7 26 10 PM" src="https://github.com/user-attachments/assets/17885856-b961-4bb1-9b63-28d6558e8d62" />
+<img width="643" height="763" alt="Screenshot 2026-05-11 at 7 26 36 PM" src="https://github.com/user-attachments/assets/76cbf2d4-2e67-490e-8853-6e7280a8719a" />
+<img width="644" height="755" alt="Screenshot 2026-05-11 at 7 26 47 PM" src="https://github.com/user-attachments/assets/6db83f84-183a-40bc-82e8-ef5fdaa4ddb2" />
+
+
